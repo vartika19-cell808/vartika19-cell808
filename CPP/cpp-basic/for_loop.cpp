@@ -1,4 +1,4 @@
-//print number form 1-5 using for loop
+//print number from 1-5 using for loop
 #include <iostream>
 using namespace std;
 
