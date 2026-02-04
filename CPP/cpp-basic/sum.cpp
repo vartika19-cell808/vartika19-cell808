@@ -2,10 +2,8 @@
 using namespace std;
 
 int main() {
-    int a = 5, b = 10, c = 15;
-
-    int sum = a + b + c;
-
-    cout << "Sum = " << sum;
+    int a, b;
+    cin >> a >> b;
+    cout << "Sum = " << a + b;
     return 0;
 }
